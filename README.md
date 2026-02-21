@@ -1,15 +1,52 @@
-# 💫 About Me:
-🎓 Software Engineering Graduate from KFUPM with hands-on experience in full-stack development across logistics, retail, and financial platforms.<br>🌐 Skilled in building scalable web and mobile applications using technologies like React.js, React Native, Next.js, and Firebase.<br>🚀 Passionate about solving real-world problems through code, with a growing interest in FinTech and digital transformation in the financial sector.<br>📧 For partnership opportunities, contact me at abdullaham1422@gmail.com.
+# 👋 Hi, I'm Abdullah Al Matawah
 
+💼 Software Developer at AlJabr Finance specializing in building enterprise FinTech systems used in production environments.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-matawah-b6036a231/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aamhaamm) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aamhaamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aamhaamm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aamhaamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🏦 Currently developing corporate, personal, and auto financing systems at AlJabr Finance  
+- 🔗 Built integrations with national financial platforms including SIMAH, Yakeen, Tameeni, and Bayan  
+- 🤖 Implemented AI-powered decision support to assist credit risk analysis  
+- 🏗️ Experienced in building scalable full-stack applications and backend systems  
+- 📜 PMP® Certified (Project Management Professional)  
+- 💰 CME-1 Certified in Securities & Investment  
+- 🎓 Software Engineering Graduate from KFUPM  
+
+---
+
+## 🧠 Technical Focus
+
+- Frontend: React, Next.js, React Native, TailwindCSS  
+- Backend: Node.js, Firebase, REST APIs  
+- Databases: Firestore, MySQL  
+- Architecture: System Design, Financial Systems, API Integrations  
+- Tools: Git, Postman, Figma  
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-matawah-b6036a231/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aamhaamm)
+
+---
+
+## 💻 Tech Stack
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=aamhaamm&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aamhaamm&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aamhaamm&theme=dark&layout=compact)
